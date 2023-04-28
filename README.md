@@ -28,8 +28,6 @@ Failed Block: Below is a play where multiple offensive linemen fail to block the
 
 The bottom left figure shows the movements of the offensive line and is colored by CLIPP. The worst performers are shown in red, while the offensive linemen who positively contributed to the play are in green. The middle figure shows the CLIPP of each lineman every tenth of a second. Players above the horizontal line performed positively, while those below decreased the probability of a successful play. The bottom right figure shows the CLIPP of the entire offensive line, and it remained positive throughout the play.
 
-
-
 Heavy Pressure and Sack Allowed: In this play, the Atlanta Falcons entire offensive line is being pushed back from heavy pressure by Philadelphia Eagles defense. CLIPP correctly identified the offensive linemen that allowed their QB to be pressured and a subsequent sack. The offensive line collectively reduced the probability of a successful pass by 40 percent (a CLIPP of -0.4).
 
 Great Pass Protection: The following play is an example of excellent pass protection resulting in a completed pass and a 19-yard gain. Jimmy Garoppolo had plenty of time and space to throw to the open receiver Deebo Samuel. The offensive line produced a CLIPP of 0.8, meaning they contributed 80 percent to this successful pass.
