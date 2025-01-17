@@ -2,7 +2,7 @@
 NFL Big Data Bowl 2023
 
 Link to paper: https://www.kaggle.com/code/benjenkins96/causal-impact-of-offensive-linemen-on-pass-plays
-Link to dataset:https://drive.google.com/drive/folders/1t79_ujDkUsgPUaYADOvYWAB-n1VXI2ga?usp=share_link
+Link to dataset: https://drive.google.com/drive/folders/1t79_ujDkUsgPUaYADOvYWAB-n1VXI2ga?usp=share_link
 
 “While probabilities encode our beliefs about a static world, causality tells us whether and how probabilities change when the world changes, be it by intervention or by act of imagination.” Judea Pearl, The Book of Why: The New Science of Cause and Effect, 2018
 
